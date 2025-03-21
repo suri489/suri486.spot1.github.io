@@ -1,0 +1,22 @@
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR 방문 추적</title>
+
+    <!-- Google Analytics 코드 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FH8CMN573Q"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-FH8CMN573Q
+'); // 네 Google Analytics ID
+    </script>
+
+</head>
+<body>
+    <h1>QR 코드 방문 추적 페이지</h1>
+    <p>이 페이지에 접속한 시간이 Google Analytics에 기록됩니다.</p>
+</body>
+</html>
